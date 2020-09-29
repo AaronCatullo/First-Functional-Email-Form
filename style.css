@@ -1,0 +1,8 @@
+form label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
